@@ -1,0 +1,8 @@
+prefix=/home/sbeste/catkin_ws/install
+
+Name: my_navPlanner
+Description: Description of my_navPlanner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
